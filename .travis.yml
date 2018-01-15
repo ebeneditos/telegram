@@ -1,9 +1,4 @@
 language: r
-sudo: false
+sudo: required
 cache: packages
-
-r:
- - oldrel
- - release
- - devel
 
